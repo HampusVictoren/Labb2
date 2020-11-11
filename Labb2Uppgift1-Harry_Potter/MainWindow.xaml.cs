@@ -24,5 +24,5 @@ namespace Labb2Uppgift1_Harry_Potter
         {
             InitializeComponent();
         }
-    }
+    } //test123
 }
